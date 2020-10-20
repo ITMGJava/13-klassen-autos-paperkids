@@ -5,10 +5,11 @@
     - merk = "Toyota"
     - kilometerstand = 23000
     
-- Implementeer in de klasse Auto de methodes ```void start()```, ```void stop()``` en ```void geefGas()```.  Deze methodes drukken respectievelijk de volgende teksten af: ```de Toyota start```, ```de Toyota stopt```, ```de Toyota rijdt```.
+- Implementeer in de klasse Auto de methodes ```void start()```, ```void stop()``` en ```void geefGas()```.  Deze methodes drukken respectievelijk de volgende teksten af: ```de Toyota start```, ```de Toyota stopt```, ```de Toyota rijdt```. Het merk moet dynamisch afgedrukt worden en is geen letterlijke tekst (als het dus een ander merk was, zou de code dat merk afdrukken).
 
 - Implementeer in de klasse Auto een methode ```int getKilometerStand()``` met als output de kilometerstand.
-- Instantieer een Auto object met een variabele genaamd ```auto1``` en  kilometerstand op 23000. Roep daarna de methodes 1 voor 1 aan:
+- Instantieer een Auto object met een variabele genaamd ```auto1```. Roep daarna de methodes 1 voor 1 aan:
+- Druk vervolgens het merk en de kilometerstand van de auto af. Het merk en de kilometerstand moeten dynamisch afgedrukt worden.
 
 voorbeeld output:
 ```bash

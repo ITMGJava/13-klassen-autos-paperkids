@@ -10,7 +10,7 @@ public class Auto {
 auto1.start();
 auto1.stop();
 auto1.geefGas();
-           System.out.println("de kilometerstand is " +  auto1.kilometerstand );
+           System.out.printf("De kilometerstand van de %s is:%d kilometer ", auto1.merk, auto1.kilometerstand );
 
     }
 
